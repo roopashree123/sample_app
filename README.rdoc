@@ -26,3 +26,5 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+[ ![Codeship Status for roopashree123/sample_app](https://www.codeship.io/projects/75fbd6e0-ee32-0131-c6e7-6a40d349b728/status)](https://www.codeship.io/projects/26786)
